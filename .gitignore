@@ -33,3 +33,7 @@
 
 out
 build
+
+# Node
+node_modules
+ts-x3d/dist
